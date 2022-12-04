@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Sabrina
+<img src="./Imagens/Cute.png" width="50"/>
+
 
 <div align="center">
   <a href="https://github.com/BlackbirdBina">
