@@ -14,9 +14,9 @@ $\color{#ff91a4}{I’m \space just \space a \space learner \space trying \space 
 <!--Quadro de atividades-->
 <div align="center">
   <a href="https://github.com/BlackbirdBina">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BlackbirdBina&show_icons=true&amp;count_private=true&amp;show_border=true&amp;border_color=dc143c&amp;title_color=ff91a4&amp;icon_color=ff91a4&amp;text_color=c9d1d9&amp;bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BlackbirdBina&show_icons=true&amp;count_private=true&amp;show_border=true&amp;border_color=dc143c&amp;title_color=ff91a4&amp;icon_color=ff91a4&amp;text_color=c9d1d9&amp;bg_color=0d1117"/>
     
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackbirdBina&layout=compact&amp;show_border=true&amp;border_color=dc143c&amp;title_color=ff91a4&amp;text_color=ff91a4&amp;bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackbirdBina&layout=compact&amp;show_border=true&amp;border_color=dc143c&amp;title_color=ff91a4&amp;text_color=ff91a4&amp;bg_color=0d1117"/>
 </div>
 
 <!--Troféus adquiridos-->
