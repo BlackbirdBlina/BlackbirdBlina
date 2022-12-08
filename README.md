@@ -6,7 +6,7 @@
 
 <!--Detalhamento de perfil-->
 <p align="center">
-  <img src="./Imagens/Cute.png" width="100"/>
+  <img src="./Imagens/Hihi2.gif" width="100"/>
 </p>
 
 $\color{#ff91a4}{I’m \space just \space a \space learner \space trying \space to \space provide \space a \space nice \space user \space interface \space experience}$ :wink:
