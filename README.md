@@ -26,7 +26,7 @@ $\color{#ff91a4}{I’m \space just \space a \space learner \space trying \space 
   
 <!--Redes Sociais-->
 <div align="center"> 
-<a href="https://www.linkedin.com/in/sabrina-barbosa-blackbird/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/sabrina-barbosa-blackbird/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
 <!--Linguagens--> 
