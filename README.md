@@ -39,7 +39,7 @@ $\color{#ff91a4}{What \space I'm \space currently \space studying:}$
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
   
 <!--Gráfico de frequência-->  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BlackbirdBina&bg_color=000000&color=dc143c&line=ff91a4&point=dc143c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BlackbirdBina&bg_color=000000&color=dc143c&line=ff91a4&point=dc143c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
