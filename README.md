@@ -13,15 +13,15 @@ $\color{#ff91a4}{I’m \space just \space a \space learner \space trying \space 
 
 <!--Quadro de atividades-->
 <div align="center">
-  <a href="https://github.com/BlackbirdBina">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BlackbirdBina&show_icons=true&amp;count_private=true&amp;show_border=true&amp;border_color=dc143c&amp;title_color=ff91a4&amp;icon_color=ff91a4&amp;text_color=c9d1d9&amp;bg_color=0d1117"/>
+  <a href="https://github.com/BlackbirdBlina">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BlackbirdBlina&show_icons=true&amp;count_private=true&amp;show_border=true&amp;border_color=dc143c&amp;title_color=ff91a4&amp;icon_color=ff91a4&amp;text_color=c9d1d9&amp;bg_color=0d1117"/>
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackbirdBina&layout=compact&amp;show_border=true&amp;border_color=dc143c&amp;title_color=ff91a4&amp;text_color=ff91a4&amp;bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackbirdBlina&layout=compact&amp;show_border=true&amp;border_color=dc143c&amp;title_color=ff91a4&amp;text_color=ff91a4&amp;bg_color=0d1117"/>
 </div>
 
 <!--Troféus adquiridos-->
 <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=BlackbirdBina&amp;theme=radical&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;">
+  <img src="https://github-profile-trophy.vercel.app/?username=BlackbirdBlina&amp;theme=radical&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;">
 </p>
   
 <!--Redes Sociais-->
@@ -42,7 +42,7 @@ $\color{#ff91a4}{What \space I'm \space currently \space studying:}$
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 <!--Gráfico de frequência-->  
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BlackbirdBina&bg_color=000000&color=dc143c&line=ff91a4&point=dc143c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BlackbirdBlina&bg_color=000000&color=dc143c&line=ff91a4&point=dc143c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
