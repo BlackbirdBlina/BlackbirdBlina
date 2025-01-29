@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff91a4&amp;height=120&amp;section=header" style="max-width: 100%;" width="100%">
 
 <!--Introdução animada-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+my+name+is+Sabrina+Barbosa;I'm+28+years+old;I'm+from+Brazil;I'm+Studying+a+Undergraduate+Course+in+IT;Be+Welcome!+^^)](https://github.com/BlackbirdBlina)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+my+name+is+Sabrina+Barbosa;I'm+from+Brazil;I'm+Studying+a+Undergraduate+Course+in+IT;Be+Welcome!+^^)](https://github.com/BlackbirdBlina)
 
 <!--Detalhamento de perfil-->
 <p align="center">
