@@ -9,7 +9,7 @@
   <img src="./Imagens/Hihi2.gif" width="100"/>
 </p>
 
-$\color{#a37554}{I’m \space just \space a \space learner \space trying \space to \space provide \space a \space nice \space user \space interface \space experience}$ :wink:
+<!--$\color{#a37554}{I’m \space just \space a \space learner \space trying \space to \space provide \space a \space nice \space user \space interface \space experience}$ :wink:-->
 
 <!--Quadro de atividades-->
 <div align="center">
@@ -30,7 +30,7 @@ $\color{#a37554}{I’m \space just \space a \space learner \space trying \space 
 </div>
 
 <!--Linguagens--> 
-$\color{#a37554}{What \space I'm \space currently \space studying:}$
+<!--$\color{#a37554}{What \space I'm \space currently \space studying:}$--> 
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
