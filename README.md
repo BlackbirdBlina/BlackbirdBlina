@@ -5,11 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a37554&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+my+name+is+Sabrina+Barbosa;I'm+from+Brazil;I'm+Studying+a+Undergraduate+Course+in+IT;Be+Welcome!+^^)](https://github.com/BlackbirdBlina)
 
 <!--Detalhamento de perfil-->
-<p align="center">
+<!--<p align="center">
   <img src="./Imagens/Hihi2.gif" width="100"/>
-</p>
-
-<!--$\color{#a37554}{I’m \space just \space a \space learner \space trying \space to \space provide \space a \space nice \space user \space interface \space experience}$ :wink:-->
+</p>-->
 
 <!--Quadro de atividades-->
 <div align="center">
@@ -20,18 +18,18 @@
 </div>
 
 <!--Troféus adquiridos-->
-<p align="center">  
+<!--<p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=BlackbirdBlina&amp;theme=radical&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15" style="max-width: 100%;">
-</p>
+</p>-->
   
 <!--Redes Sociais-->
-<div align="center"> 
+<!--<div align="center"> 
   <a href="https://www.linkedin.com/in/sabrina-barbosa-blackbird/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
+</div>-->
 
 <!--Linguagens--> 
 <!--$\color{#a37554}{What \space I'm \space currently \space studying:}$--> 
-
+\
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
