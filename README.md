@@ -1,8 +1,8 @@
 <!--Imagem top-->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=a37554&amp;height=120&amp;section=header" style="max-width: 100%;" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=4f7931&amp;height=120&amp;section=header" style="max-width: 100%;" width="100%">
 
 <!--Introdução animada-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a37554&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+my+name+is+Sabrina+Barbosa;I'm+from+Brazil;I'm+Studying+a+Undergraduate+Course+in+IT;Be+Welcome!+^^)](https://github.com/BlackbirdBlina)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=375422&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+my+name+is+Sabrina+Barbosa;I'm+from+Brazil;I'm+Studying+a+Undergraduate+Course+in+IT;Be+Welcome!+^^)](https://github.com/BlackbirdBlina)
 
 <!--Detalhamento de perfil-->
 <!--<p align="center">
@@ -12,9 +12,9 @@
 <!--Quadro de atividades-->
 <div align="center">
   <a href="https://github.com/BlackbirdBlina">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BlackbirdBlina&show_icons=true&amp;count_private=true&amp;show_border=true&amp;border_color=805b41&amp;title_color=a37554&amp;icon_color=a37554&amp;text_color=c9d1d9&amp;bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BlackbirdBlina&show_icons=true&amp;count_private=true&amp;show_border=true&amp;border_color=4f7931&amp;title_color=375422&amp;icon_color=4f7931&amp;text_color=eeeeee&amp;bg_color=0d1117"/>
     
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackbirdBlina&layout=compact&amp;show_border=true&amp;border_color=805b41&amp;title_color=a37554&amp;text_color=a37554&amp;bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackbirdBlina&layout=compact&amp;show_border=true&amp;border_color=4f7931&amp;title_color=375422&amp;text_color=eeeeee&amp;bg_color=0d1117"/>
 </div>
 
 <!--Troféus adquiridos-->
@@ -43,4 +43,4 @@
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BlackbirdBlina&bg_color=000000&color=dc143c&line=ff91a4&point=dc143c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a37554&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f7931&height=120&section=footer"/>
