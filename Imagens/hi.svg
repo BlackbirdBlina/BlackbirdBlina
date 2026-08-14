@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
+      
+      .pixel-text {
+        font-family: 'VT323', 'Courier New', monospace;
+      }
+      
+      .title-glow {
+        font-size: 54px;
+        font-weight: bold;
+        letter-spacing: 2px;
+        fill: #ffffff;
+        text-anchor: middle;
+      }
+      
+      .sub-glow {
+        font-size: 32px;
+        letter-spacing: 8px;
+        fill: #d5ffff;
+        text-anchor: middle;
+      }
+
+      @keyframes crt-flicker {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.95; }
+      }
+      
+      .flicker {
+        animation: crt-flicker 0.15s infinite;
+      }
+    </style>
+
+    <!-- Scanline Pattern -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <rect width="100" height="2" fill="#000000" opacity="0.35" />
+    </pattern>
+
+    <!-- CRT Atmosphere Gradient -->
+    <radialGradient id="bg-glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#0f453f" stop-opacity="1" />
+      <stop offset="45%" stop-color="#062522" stop-opacity="0.95" />
+      <stop offset="75%" stop-color="#021210" stop-opacity="0.98" />
+      <stop offset="100%" stop-color="#000505" stop-opacity="1" />
+    </radialGradient>
+    
+    <!-- Seamless Edge Vignette -->
+    <radialGradient id="vignette-fade" cx="50%" cy="50%" r="50%">
+      <stop offset="50%" stop-color="#000000" stop-opacity="0" />
+      <stop offset="85%" stop-color="#000000" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.98" />
+    </radialGradient>
+  </defs>
+
+  <!-- Background Layers -->
+  <rect width="100%" height="100%" fill="url(#bg-glow)" />
+  <rect width="100%" height="100%" fill="url(#scanlines)" />
+  <rect width="100%" height="100%" fill="url(#vignette-fade)" />
+
+  <!-- Neon Glow & Text -->
+  <g class="pixel-text flicker">
+    <!-- Hi there! (Centralizado) -->
+    <text x="400" y="95" class="title-glow" fill="#00e5ff" opacity="0.25" stroke="#00e5ff" stroke-width="14" stroke-linejoin="round">Hi there!</text>
+    <text x="400" y="95" class="title-glow" fill="#00ffff" opacity="0.5" stroke="#00ffff" stroke-width="7" stroke-linejoin="round">Hi there!</text>
+    <text x="400" y="95" class="title-glow" fill="#ffffff" stroke="#00ffff" stroke-width="2">Hi there!</text>
+    
+    <!-- I'm Sabrina (Justificado / Espaçado) -->
+    <text x="400" y="165" class="sub-glow" fill="#00e5ff" opacity="0.2" stroke="#00e5ff" stroke-width="10" stroke-linejoin="round">I'M SABRINA</text>
+    <text x="400" y="165" class="sub-glow" fill="#00ffff" opacity="0.5" stroke="#00ffff" stroke-width="4" stroke-linejoin="round">I'M SABRINA</text>
+    <text x="400" y="165" class="sub-glow" fill="#e0ffff" stroke="#00ffff" stroke-width="1">I'M SABRINA</text>
+  </g>
+</svg>
