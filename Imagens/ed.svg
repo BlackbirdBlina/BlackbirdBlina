@@ -8,14 +8,14 @@
       }
       
       .title-glow {
-        font-size: 46px;
+        font-size: 25px;
         font-weight: bold;
         letter-spacing: 3px;
         fill: #ffffff;
       }
       
       .item-glow {
-        font-size: 24px;
+        font-size: 15px;
         letter-spacing: 2px;
         fill: #d5ffff;
       }
@@ -69,9 +69,9 @@
       <text x="0" y="0" class="item-glow" fill="#00ffff" opacity="0.5" stroke="#00ffff" stroke-width="3" stroke-linejoin="round">◆</text>
       <text x="0" y="0" class="item-glow" fill="#00ffff" stroke="#00ffff" stroke-width="1">◆</text>
       
-      <text x="25" y="0" class="item-glow" fill="#00e5ff" opacity="0.2" stroke="#00e5ff" stroke-width="8" stroke-linejoin="round">Undergraduate in Information Technology at IMD/UFRN</text>
-      <text x="25" y="0" class="item-glow" fill="#00ffff" opacity="0.5" stroke="#00ffff" stroke-width="3" stroke-linejoin="round">Undergraduate in Information Technology at IMD/UFRN</text>
-      <text x="25" y="0" class="item-glow" fill="#d5ffff" stroke="#00ffff" stroke-width="0.8">Undergraduate in Information Technology at IMD/UFRN</text>
+      <text x="25" y="0" class="item-glow" fill="#00e5ff" opacity="0.2" stroke="#00e5ff" stroke-width="8" stroke-linejoin="round">Undergraduate in Information Technology at IMD (UFRN)</text>
+      <text x="25" y="0" class="item-glow" fill="#00ffff" opacity="0.5" stroke="#00ffff" stroke-width="3" stroke-linejoin="round">Undergraduate in Information Technology at IMD (UFRN)</text>
+      <text x="25" y="0" class="item-glow" fill="#d5ffff" stroke="#00ffff" stroke-width="0.8">Undergraduate in Information Technology at IMD (UFRN)</text>
     </g>
 
     <!-- Topic 2 -->
@@ -80,9 +80,9 @@
       <text x="0" y="0" class="item-glow" fill="#00ffff" opacity="0.5" stroke="#00ffff" stroke-width="3" stroke-linejoin="round">◆</text>
       <text x="0" y="0" class="item-glow" fill="#00ffff" stroke="#00ffff" stroke-width="1">◆</text>
       
-      <text x="25" y="0" class="item-glow" fill="#00e5ff" opacity="0.2" stroke="#00e5ff" stroke-width="8" stroke-linejoin="round">Bachelor's Degree in Social Science at UFRN</text>
-      <text x="25" y="0" class="item-glow" fill="#00ffff" opacity="0.5" stroke="#00ffff" stroke-width="3" stroke-linejoin="round">Bachelor's Degree in Social Science at UFRN</text>
-      <text x="25" y="0" class="item-glow" fill="#d5ffff" stroke="#00ffff" stroke-width="0.8">Bachelor's Degree in Social Science at UFRN</text>
+      <text x="25" y="0" class="item-glow" fill="#00e5ff" opacity="0.2" stroke="#00e5ff" stroke-width="8" stroke-linejoin="round">Technical Degree in Web Development at IMDtec (UFRN)</text>
+      <text x="25" y="0" class="item-glow" fill="#00ffff" opacity="0.5" stroke="#00ffff" stroke-width="3" stroke-linejoin="round">Technical Degree in Web Development at IMDtec (UFRN)</text>
+      <text x="25" y="0" class="item-glow" fill="#d5ffff" stroke="#00ffff" stroke-width="0.8">Technical Degree in Web Development at IMDtec (UFRN)</text>
     </g>
 
     <!-- Topic 3 -->
@@ -102,9 +102,9 @@
       <text x="0" y="0" class="item-glow" fill="#00ffff" opacity="0.5" stroke="#00ffff" stroke-width="3" stroke-linejoin="round">◆</text>
       <text x="0" y="0" class="item-glow" fill="#00ffff" stroke="#00ffff" stroke-width="1">◆</text>
       
-      <text x="25" y="0" class="item-glow" fill="#00e5ff" opacity="0.2" stroke="#00e5ff" stroke-width="8" stroke-linejoin="round">Technical Degree in Web Development at IMDtec (UFRN)</text>
-      <text x="25" y="0" class="item-glow" fill="#00ffff" opacity="0.5" stroke="#00ffff" stroke-width="3" stroke-linejoin="round">Technical Degree in Web Development at IMDtec (UFRN)</text>
-      <text x="25" y="0" class="item-glow" fill="#d5ffff" stroke="#00ffff" stroke-width="0.8">Technical Degree in Web Development at IMDtec (UFRN)</text>
+      <text x="25" y="0" class="item-glow" fill="#00e5ff" opacity="0.2" stroke="#00e5ff" stroke-width="8" stroke-linejoin="round">Bachelor's Degree in Social Science at UFRN</text>
+      <text x="25" y="0" class="item-glow" fill="#00ffff" opacity="0.5" stroke="#00ffff" stroke-width="3" stroke-linejoin="round">Bachelor's Degree in Social Science at UFRN</text>
+      <text x="25" y="0" class="item-glow" fill="#d5ffff" stroke="#00ffff" stroke-width="0.8">Bachelor's Degree in Social Science at UFRN</text>
     </g>
   </g>
 </svg>

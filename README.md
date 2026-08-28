@@ -4,6 +4,8 @@
 
 <div align="center">
   <img src="Imagens/lain.gif"/>
+
+  <img src="Imagens/robots-2005.gif"/>
 </div>
 
 <p align="center">

@@ -8,7 +8,7 @@
       }
       
       .title-glow {
-        font-size: 54px;
+        font-size: 36px;
         font-weight: bold;
         letter-spacing: 2px;
         fill: #ffffff;
@@ -16,7 +16,7 @@
       }
       
       .sub-glow {
-        font-size: 32px;
+        font-size: 25px;
         letter-spacing: 8px;
         fill: #d5ffff;
         text-anchor: middle;
