@@ -14,8 +14,6 @@ Desenvolvedora com interesse em **Inteligência Artificial** e **Desenvolvimento
 
 ### 💻 Tecnologias & Ferramentas
 
-**Tecnologias que já usei**
-
 `React` `TypeScript` `JavaScript` `HTML5/CSS3` `Tailwind CSS` `Node.js` `REST APIs` `Python` `Pandas` `NumPy` `Git` `GitHub Actions` `Docker`
 
 ---
