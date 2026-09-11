@@ -22,7 +22,7 @@ Desenvolvedora com interesse em **Inteligência Artificial** e **Desenvolvimento
 
 - **[encryption-decryption](https://github.com/BlackbirdBlina/encryption-decryption)**: Projeto com interface web para descriptografar mensagens.
 
-- **[Sistema-Bancario-GitLab-Flow](https://github.com/BlackbirdBlina/Sistema-Bancario-GitLab-Flow)**: Projeto para prática do GitLab Flow e github actions para a gerência e configuração de mudanças.
+- **[Sistema-Bancario-GitLab-Flow](https://github.com/BlackbirdBlina/Sistema-Bancario-GitLab-Flow)**: Projeto para prática do GitLab Flow e github actions para a gerência de configuração e mudanças.
 
 - **[Sistema-Estoque-Loja-Virtual-Moda](https://github.com/BlackbirdBlina/Sistema-Estoque-Loja-Virtual-Moda)**: CRUD com opção de filtros de consulta via CLI.
 
